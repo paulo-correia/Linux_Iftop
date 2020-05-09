@@ -1,6 +1,6 @@
 # Iftop
 
-Monitoramento de Links
+Uma ferramenta para exibir o uso da largura de banda em uma interface
 
 ## Instalação
 
